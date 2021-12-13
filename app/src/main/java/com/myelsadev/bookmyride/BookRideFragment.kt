@@ -134,7 +134,7 @@ class BookRideFragment : BaseFragment<FragmentBookRideBinding>() {
     }
 
     private fun updatePickup(it: LocationModel?) {
-        pickupLocation = it
+        it.also { pickupLocation = it }
         binding!!.txtPickupLocation.text = pickupLocation?.address
     }
 
