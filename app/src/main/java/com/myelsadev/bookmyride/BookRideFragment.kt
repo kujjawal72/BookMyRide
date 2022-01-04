@@ -24,7 +24,7 @@ class BookRideFragment : BaseFragment<FragmentBookRideBinding>() {
     companion object {
 
         private const val PLACE_REQUEST_PICKUP = 1001
-        private const val PLACE_REQUEST_DROP = 1002
+        private const val PLACE_REQUEST_DROP = 1004
 
         fun newInstance() = BookRideFragment().apply {
             arguments = bundleOf()
