@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book My Ride</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_rides">Book Ride</string>
+    <string name="my_rides">My Rides</string>
+    <string name="drop_location">Drop location</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV</string>
+    <string name="api_key">AIzaSyDjRD3IgdultbwXgn2WtJPQfWHYljitk2E</string>
+</resources>
